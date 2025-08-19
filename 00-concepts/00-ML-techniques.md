@@ -10,11 +10,11 @@ Machine Learning techniques are broadly categorized into different types based o
   - **Regression**: Predicts continuous values (e.g., predicting house prices).
   - **Classification**: Predicts discrete categories (e.g., spam vs. non-spam emails).
 - **Examples**:
-  - Linear Regression
-  - Logistic Regression
-  - Decision Trees
-  - Support Vector Machines (SVM)
-  - Neural Networks
+  - Linear Regression (Regression)
+  - Logistic Regression (Binomial Classification)
+  - Decision Trees (Regression & Classification)
+  - Support Vector Machines (SVM) (Regression & Classification)
+  - Neural Networks (Regression & Classification)
 
 ---
 
