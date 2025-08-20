@@ -54,3 +54,13 @@ https://marketplace.visualstudio.com/items/?itemName=ms-toolsai.jupyter
 ### Cloud
 - https://colab.research.google.com/
 
+## What is Machine Learning?
+### Predicting the future using the understanding of the Past
+
+## ML Terms
+- features, independent variables, attributes (inputs)
+- target, dependent variable (output)
+- observation (1 row)
+- samples (dataset OR collection of observations)
+- Model - encapsulates the relationship among the features and target (incase of supervised) OR among the features (incase of unsupervised)
+- ML Algorithm => creates a model by analysing the features & target

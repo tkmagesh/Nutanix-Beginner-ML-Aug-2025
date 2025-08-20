@@ -27,8 +27,8 @@ Machine Learning techniques are broadly categorized into different types based o
 - **Examples**:
   - K-Means Clustering
   - Hierarchical Clustering
-  - Principal Component Analysis (PCA)
-  - Autoencoders
+  - Principal Component Analysis (PCA) (Dimensionality Reduction)
+  - Autoencoders (Clustering)
 
 ---
 
