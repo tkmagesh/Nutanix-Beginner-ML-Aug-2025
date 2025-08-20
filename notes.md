@@ -64,3 +64,11 @@ https://marketplace.visualstudio.com/items/?itemName=ms-toolsai.jupyter
 - samples (dataset OR collection of observations)
 - Model - encapsulates the relationship among the features and target (incase of supervised) OR among the features (incase of unsupervised)
 - ML Algorithm => creates a model by analysing the features & target
+
+## Steps
+1. Load the data
+2. Identify the features & target (regression)
+3. Split the dataset into training set & test set (Hold out cross validation technique)
+4. Train the model using the training set
+5. Test the model using the test set
+6. Evaluate the performance (accurancy in prediction for supervised learning) of the model
